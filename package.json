@@ -1,8 +1,12 @@
 {
-  "devDependencies": {
-    "typescript": "^5.5.2"
-  },
   "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "@grammyjs/menu": "^1.2.1",
     "grammy": "^1.25.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
   }
 }
